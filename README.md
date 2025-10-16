@@ -1,1 +1,1 @@
-Link to my app : https://chestx-rayclassification-szvzg3kzxc9f3pmkmlcldy.streamlit.app/
+Check out my project on GitHub: [Chest X-ray Classification](https://github.com/joshi-006/ChestX-rayClassification)
